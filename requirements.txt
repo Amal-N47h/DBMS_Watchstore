@@ -1,0 +1,11 @@
+Django>=5.2
+djangorestframework>=3.14
+django-cors-headers>=4.0
+mysqlclient>=2.2
+Pillow>=10.0
+python-dotenv>=1.0
+fastapi>=0.95
+uvicorn[standard]>=0.22
+SQLAlchemy>=1.4
+pymysql>=1.0
+pydantic>=1.10
